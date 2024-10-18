@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/practice-app/static/css/main.736febde.css",
+    "main.js": "/practice-app/static/js/main.e3392698.js",
+    "static/js/239.a64b9c6d.chunk.js": "/practice-app/static/js/239.a64b9c6d.chunk.js",
+    "static/js/213.ab8ebeee.chunk.js": "/practice-app/static/js/213.ab8ebeee.chunk.js",
+    "static/js/732.bb211c20.chunk.js": "/practice-app/static/js/732.bb211c20.chunk.js",
+    "static/media/phone.png": "/practice-app/static/media/phone.8972772895049788e35c.png",
+    "index.html": "/practice-app/index.html",
+    "main.736febde.css.map": "/practice-app/static/css/main.736febde.css.map",
+    "main.e3392698.js.map": "/practice-app/static/js/main.e3392698.js.map",
+    "239.a64b9c6d.chunk.js.map": "/practice-app/static/js/239.a64b9c6d.chunk.js.map",
+    "213.ab8ebeee.chunk.js.map": "/practice-app/static/js/213.ab8ebeee.chunk.js.map",
+    "732.bb211c20.chunk.js.map": "/practice-app/static/js/732.bb211c20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.736febde.css",
+    "static/js/main.e3392698.js"
+  ]
+}
